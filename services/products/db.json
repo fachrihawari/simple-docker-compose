@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sweater"
+    },
+    {
+      "id": 2,
+      "name": "T-Shirt"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "MEN SOFT TOUCH LONG-SLEEVE",
+      "slug": "men-soft-touch-crew-neck-long-sleeve-t-shirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, optio qui ullam quam voluptates consequatur sapiente nesciunt praesentium minima asperiores vitae, dolore culpa quas atque dolores nihil in, hic accusamus",
+      "price": 10000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/419496/item/goods_68_419496.jpg?width=734",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "WOMEN UNIQLO+ DRY-EX",
+      "slug": "women-uniqloplus-dry-ex-crew-neck-short-sleeve-t-shirt",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, optio qui ullam quam voluptates consequatur sapiente nesciunt praesentium minima asperiores vitae, dolore culpa quas atque dolores nihil in, hic accusamus",
+      "price": 20000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/431328/item/goods_64_431328.jpg?width=734",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "name": "KIDS U STRIPED SHORT-SLEEVE",
+      "slug": "kids-u-striped-short-sleeve",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, optio qui ullam quam voluptates consequatur sapiente nesciunt praesentium minima asperiores vitae, dolore culpa quas atque dolores nihil in, hic accusamus",
+      "price": 50000,
+      "mainImg": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/438173/item/goods_55_438173.jpg?width=734",
+      "categoryId": 2
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "@intro-docker/users",
+  "scripts": {
+    "start": "json-server ./db.json --host 0.0.0.0 --port 8080"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
